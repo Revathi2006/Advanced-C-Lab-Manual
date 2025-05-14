@@ -126,7 +126,7 @@ Use scanf to input the file name into the name array.
  
 Program:
 
-
+```
             #include <stdio.h>
             int main()
             {
@@ -142,7 +142,7 @@ Program:
 
 
 
-
+```
 
 
 Output:
@@ -187,7 +187,7 @@ Use scanf to input the file name into the name array and the number of strings i
 5.	Return 0 to indicate successful program execution.
  
 Program:
-
+```
            #include <stdio.h>
             int main()
             {
@@ -207,7 +207,7 @@ Program:
             }
 
 
-
+```
 
 
 Output:
@@ -261,7 +261,7 @@ Algorithm:
 13.End the program by returning 0.
 
 Program:
-
+```
  #include <stdio.h>
            #include <stdlib.h>
            struct Subject
@@ -292,7 +292,7 @@ Program:
                 return 0;
            }
 
-
+```
 
 
 

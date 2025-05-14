@@ -78,7 +78,7 @@ To write a C program to print the maximum values for the AND, OR and XOR compari
 
 ```
 
- void calculate_the_max(int n,int k)
+            void calculate_the_max(int n,int k)
             {
             int a=0,o=0,x=0; 
             for(int i=1;i<=n;i++)
@@ -142,7 +142,7 @@ To write a C program to write the logic for the requests
 **Program:**
 
 ```
- #include<stdio.h> int main()
+           #include<stdio.h> int main()
            {
            int noshel,noque; 
            scanf("%d%d",&noshel,&noque); 
@@ -208,7 +208,7 @@ To write a C program print the sum of the integers in the array.
 
 **Program:**
 ```
- #include<stdio.h> 
+               #include<stdio.h> 
                 int main()
                 {
                 int n; 
